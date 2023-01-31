@@ -6,8 +6,8 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedro",
-      "surnames": "Martínez",
+      "name": "Yago",
+      "surnames": "Cousiño",
       "title": "Manfredorss / La Media Inglesa",
       "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
       "avatar": {
@@ -22,10 +22,6 @@
       }
     },
     "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/cousy145"
-      },
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
@@ -69,12 +65,6 @@
             "challenges": [
               {
                 "description": "TEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job PositionTEst Job Position"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Akka",
-                "type": "technology"
               }
             ]
           }
@@ -123,18 +113,6 @@
   },
   "knowledge": {
     "languages": [
-      {
-        "name": "English",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "French",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
-      },
       {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
